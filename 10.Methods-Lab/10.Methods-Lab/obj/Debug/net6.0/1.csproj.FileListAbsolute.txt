@@ -1,0 +1,5 @@
+C:\Users\gogat\source\repos\10.Methods-Lab\10.Methods-Lab\obj\Debug\net6.0\1.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\10.Methods-Lab\10.Methods-Lab\obj\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\10.Methods-Lab\10.Methods-Lab\obj\Debug\net6.0\1.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\10.Methods-Lab\10.Methods-Lab\obj\Debug\net6.0\1.AssemblyInfo.cs
+C:\Users\gogat\source\repos\10.Methods-Lab\10.Methods-Lab\obj\Debug\net6.0\1.csproj.CoreCompileInputs.cache

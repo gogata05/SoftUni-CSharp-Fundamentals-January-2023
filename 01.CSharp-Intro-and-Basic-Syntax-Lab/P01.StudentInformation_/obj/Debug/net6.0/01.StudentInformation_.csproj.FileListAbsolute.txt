@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\P01.StudentInformation_\bin\Debug\net6.0\01.StudentInformation_.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\P01.StudentInformation_\bin\Debug\net6.0\01.StudentInformation_.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\P01.StudentInformation_\bin\Debug\net6.0\01.StudentInformation_.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\P01.StudentInformation_\bin\Debug\net6.0\01.StudentInformation_.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\P01.StudentInformation_\bin\Debug\net6.0\01.StudentInformation_.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\P01.StudentInformation_\obj\Debug\net6.0\01.StudentInformation_.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\P01.StudentInformation_\obj\Debug\net6.0\01.StudentInformation_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\P01.StudentInformation_\obj\Debug\net6.0\01.StudentInformation_.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\P01.StudentInformation_\obj\Debug\net6.0\01.StudentInformation_.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\P01.StudentInformation_\obj\Debug\net6.0\01.StudentInformation_.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\P01.StudentInformation_\obj\Debug\net6.0\01.StudentInformation_.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\P01.StudentInformation_\obj\Debug\net6.0\refint\01.StudentInformation_.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\P01.StudentInformation_\obj\Debug\net6.0\01.StudentInformation_.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\P01.StudentInformation_\obj\Debug\net6.0\01.StudentInformation_.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\P01.StudentInformation_\obj\Debug\net6.0\ref\01.StudentInformation_.dll

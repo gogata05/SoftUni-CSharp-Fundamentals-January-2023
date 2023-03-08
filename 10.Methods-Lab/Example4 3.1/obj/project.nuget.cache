@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oxk7INzEClSihr0VSb4FG3u6pcDZqjLHEC0F378Vz43/hmg2QDq1iN2p5yFlIvsGkyW8E19/Ui+Nx7PcmQnJCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogat\\OneDrive\\Pictures\\repos\\01.23\\10.Methods-Lab\\Example4 3.1\\Example4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

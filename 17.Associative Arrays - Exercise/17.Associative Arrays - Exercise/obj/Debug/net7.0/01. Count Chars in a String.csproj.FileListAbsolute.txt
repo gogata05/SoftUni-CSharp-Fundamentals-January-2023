@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\bin\Debug\net7.0\01. Count Chars in a String.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\bin\Debug\net7.0\01. Count Chars in a String.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\bin\Debug\net7.0\01. Count Chars in a String.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\bin\Debug\net7.0\01. Count Chars in a String.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\bin\Debug\net7.0\01. Count Chars in a String.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\obj\Debug\net7.0\01. Count Chars in a String.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\obj\Debug\net7.0\01. Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\obj\Debug\net7.0\01. Count Chars in a String.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\obj\Debug\net7.0\01. Count Chars in a String.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\obj\Debug\net7.0\01. Count Chars in a String.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\obj\Debug\net7.0\01. Count Chars in a String.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\obj\Debug\net7.0\refint\01. Count Chars in a String.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\obj\Debug\net7.0\01. Count Chars in a String.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\obj\Debug\net7.0\01. Count Chars in a String.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\17.Associative Arrays - Exercise\17.Associative Arrays - Exercise\obj\Debug\net7.0\ref\01. Count Chars in a String.dll

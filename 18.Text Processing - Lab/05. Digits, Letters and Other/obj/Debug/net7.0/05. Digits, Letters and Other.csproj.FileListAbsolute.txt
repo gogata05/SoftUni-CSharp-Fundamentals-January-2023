@@ -1,0 +1,15 @@
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\18.Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net7.0\05. Digits, Letters and Other.exe
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\18.Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net7.0\05. Digits, Letters and Other.deps.json
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\18.Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net7.0\05. Digits, Letters and Other.runtimeconfig.json
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\18.Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net7.0\05. Digits, Letters and Other.dll
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\18.Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\net7.0\05. Digits, Letters and Other.pdb
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\18.Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net7.0\05. Digits, Letters and Other.csproj.AssemblyReference.cache
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\18.Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net7.0\05. Digits, Letters and Other.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\18.Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net7.0\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\18.Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net7.0\05. Digits, Letters and Other.AssemblyInfo.cs
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\18.Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net7.0\05. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\18.Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net7.0\05. Digits, Letters and Other.dll
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\18.Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net7.0\refint\05. Digits, Letters and Other.dll
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\18.Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net7.0\05. Digits, Letters and Other.pdb
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\18.Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net7.0\05. Digits, Letters and Other.genruntimeconfig.cache
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\18.Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\net7.0\ref\05. Digits, Letters and Other.dll

@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.3.SortNumbers\02.EnglishNameOfTheLastDigit\bin\Debug\net6.0\02.EnglishNameOfTheLastDigit.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.3.SortNumbers\02.EnglishNameOfTheLastDigit\bin\Debug\net6.0\02.EnglishNameOfTheLastDigit.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.3.SortNumbers\02.EnglishNameOfTheLastDigit\bin\Debug\net6.0\02.EnglishNameOfTheLastDigit.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.3.SortNumbers\02.EnglishNameOfTheLastDigit\bin\Debug\net6.0\02.EnglishNameOfTheLastDigit.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.3.SortNumbers\02.EnglishNameOfTheLastDigit\bin\Debug\net6.0\02.EnglishNameOfTheLastDigit.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.3.SortNumbers\02.EnglishNameOfTheLastDigit\obj\Debug\net6.0\02.EnglishNameOfTheLastDigit.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.3.SortNumbers\02.EnglishNameOfTheLastDigit\obj\Debug\net6.0\02.EnglishNameOfTheLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.3.SortNumbers\02.EnglishNameOfTheLastDigit\obj\Debug\net6.0\02.EnglishNameOfTheLastDigit.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.3.SortNumbers\02.EnglishNameOfTheLastDigit\obj\Debug\net6.0\02.EnglishNameOfTheLastDigit.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.3.SortNumbers\02.EnglishNameOfTheLastDigit\obj\Debug\net6.0\02.EnglishNameOfTheLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.3.SortNumbers\02.EnglishNameOfTheLastDigit\obj\Debug\net6.0\02.EnglishNameOfTheLastDigit.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.3.SortNumbers\02.EnglishNameOfTheLastDigit\obj\Debug\net6.0\refint\02.EnglishNameOfTheLastDigit.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.3.SortNumbers\02.EnglishNameOfTheLastDigit\obj\Debug\net6.0\02.EnglishNameOfTheLastDigit.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.3.SortNumbers\02.EnglishNameOfTheLastDigit\obj\Debug\net6.0\02.EnglishNameOfTheLastDigit.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23\01.3.SortNumbers\02.EnglishNameOfTheLastDigit\obj\Debug\net6.0\ref\02.EnglishNameOfTheLastDigit.dll

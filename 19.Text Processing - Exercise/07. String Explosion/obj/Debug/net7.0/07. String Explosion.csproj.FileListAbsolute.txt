@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\07. String Explosion\bin\Debug\net7.0\07. String Explosion.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\07. String Explosion\bin\Debug\net7.0\07. String Explosion.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\07. String Explosion\bin\Debug\net7.0\07. String Explosion.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\07. String Explosion\bin\Debug\net7.0\07. String Explosion.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\07. String Explosion\bin\Debug\net7.0\07. String Explosion.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\07. String Explosion.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\07. String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\07. String Explosion.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\07. String Explosion.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\07. String Explosion.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\07. String Explosion.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\refint\07. String Explosion.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\07. String Explosion.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\07. String Explosion.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\07. String Explosion\obj\Debug\net7.0\ref\07. String Explosion.dll

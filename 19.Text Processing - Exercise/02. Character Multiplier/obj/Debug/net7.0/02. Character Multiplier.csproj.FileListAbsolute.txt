@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\02. Character Multiplier\bin\Debug\net7.0\02. Character Multiplier.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\02. Character Multiplier\bin\Debug\net7.0\02. Character Multiplier.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\02. Character Multiplier\bin\Debug\net7.0\02. Character Multiplier.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\02. Character Multiplier\bin\Debug\net7.0\02. Character Multiplier.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\02. Character Multiplier\bin\Debug\net7.0\02. Character Multiplier.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\02. Character Multiplier.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\02. Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\02. Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\02. Character Multiplier.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\02. Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\02. Character Multiplier.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\refint\02. Character Multiplier.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\02. Character Multiplier.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\02. Character Multiplier.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\02. Character Multiplier\obj\Debug\net7.0\ref\02. Character Multiplier.dll

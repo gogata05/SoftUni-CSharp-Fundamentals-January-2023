@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net7.0\04. Caesar Cipher.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net7.0\04. Caesar Cipher.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net7.0\04. Caesar Cipher.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net7.0\04. Caesar Cipher.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net7.0\04. Caesar Cipher.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net7.0\04. Caesar Cipher.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net7.0\04. Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net7.0\04. Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net7.0\04. Caesar Cipher.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net7.0\04. Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net7.0\04. Caesar Cipher.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net7.0\refint\04. Caesar Cipher.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net7.0\04. Caesar Cipher.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net7.0\04. Caesar Cipher.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\19.Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net7.0\ref\04. Caesar Cipher.dll

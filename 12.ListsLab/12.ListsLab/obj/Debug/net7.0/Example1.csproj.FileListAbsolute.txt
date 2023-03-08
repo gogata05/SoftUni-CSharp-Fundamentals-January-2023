@@ -1,0 +1,15 @@
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\12.ListsLab\12.ListsLab\bin\Debug\net7.0\Example1.exe
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\12.ListsLab\12.ListsLab\bin\Debug\net7.0\Example1.deps.json
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\12.ListsLab\12.ListsLab\bin\Debug\net7.0\Example1.runtimeconfig.json
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\12.ListsLab\12.ListsLab\bin\Debug\net7.0\Example1.dll
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\12.ListsLab\12.ListsLab\bin\Debug\net7.0\Example1.pdb
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\12.ListsLab\12.ListsLab\obj\Debug\net7.0\Example1.csproj.AssemblyReference.cache
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\12.ListsLab\12.ListsLab\obj\Debug\net7.0\Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\12.ListsLab\12.ListsLab\obj\Debug\net7.0\Example1.AssemblyInfoInputs.cache
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\12.ListsLab\12.ListsLab\obj\Debug\net7.0\Example1.AssemblyInfo.cs
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\12.ListsLab\12.ListsLab\obj\Debug\net7.0\Example1.csproj.CoreCompileInputs.cache
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\12.ListsLab\12.ListsLab\obj\Debug\net7.0\Example1.dll
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\12.ListsLab\12.ListsLab\obj\Debug\net7.0\refint\Example1.dll
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\12.ListsLab\12.ListsLab\obj\Debug\net7.0\Example1.pdb
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\12.ListsLab\12.ListsLab\obj\Debug\net7.0\Example1.genruntimeconfig.cache
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\12.ListsLab\12.ListsLab\obj\Debug\net7.0\ref\Example1.dll

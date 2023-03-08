@@ -1,0 +1,15 @@
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\14.ObjectsNClasses\02. Articles\bin\Debug\net7.0\02. Articles.exe
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\14.ObjectsNClasses\02. Articles\bin\Debug\net7.0\02. Articles.deps.json
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\14.ObjectsNClasses\02. Articles\bin\Debug\net7.0\02. Articles.runtimeconfig.json
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\14.ObjectsNClasses\02. Articles\bin\Debug\net7.0\02. Articles.dll
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\14.ObjectsNClasses\02. Articles\bin\Debug\net7.0\02. Articles.pdb
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\14.ObjectsNClasses\02. Articles\obj\Debug\net7.0\02. Articles.csproj.AssemblyReference.cache
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\14.ObjectsNClasses\02. Articles\obj\Debug\net7.0\02. Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\14.ObjectsNClasses\02. Articles\obj\Debug\net7.0\02. Articles.AssemblyInfoInputs.cache
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\14.ObjectsNClasses\02. Articles\obj\Debug\net7.0\02. Articles.AssemblyInfo.cs
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\14.ObjectsNClasses\02. Articles\obj\Debug\net7.0\02. Articles.csproj.CoreCompileInputs.cache
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\14.ObjectsNClasses\02. Articles\obj\Debug\net7.0\02. Articles.dll
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\14.ObjectsNClasses\02. Articles\obj\Debug\net7.0\refint\02. Articles.dll
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\14.ObjectsNClasses\02. Articles\obj\Debug\net7.0\02. Articles.pdb
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\14.ObjectsNClasses\02. Articles\obj\Debug\net7.0\02. Articles.genruntimeconfig.cache
+C:\Users\gogat\OneDrive\Pictures\repos\01.23start\14.ObjectsNClasses\02. Articles\obj\Debug\net7.0\ref\02. Articles.dll

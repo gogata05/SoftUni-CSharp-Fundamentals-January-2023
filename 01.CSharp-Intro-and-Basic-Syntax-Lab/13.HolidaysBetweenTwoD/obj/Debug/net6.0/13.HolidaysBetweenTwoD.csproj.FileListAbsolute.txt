@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.HolidaysBetweenTwoD\bin\Debug\net6.0\13.HolidaysBetweenTwoD.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.HolidaysBetweenTwoD\bin\Debug\net6.0\13.HolidaysBetweenTwoD.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.HolidaysBetweenTwoD\bin\Debug\net6.0\13.HolidaysBetweenTwoD.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.HolidaysBetweenTwoD\bin\Debug\net6.0\13.HolidaysBetweenTwoD.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.HolidaysBetweenTwoD\bin\Debug\net6.0\13.HolidaysBetweenTwoD.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.HolidaysBetweenTwoD\obj\Debug\net6.0\13.HolidaysBetweenTwoD.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.HolidaysBetweenTwoD\obj\Debug\net6.0\13.HolidaysBetweenTwoD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.HolidaysBetweenTwoD\obj\Debug\net6.0\13.HolidaysBetweenTwoD.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.HolidaysBetweenTwoD\obj\Debug\net6.0\13.HolidaysBetweenTwoD.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.HolidaysBetweenTwoD\obj\Debug\net6.0\13.HolidaysBetweenTwoD.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.HolidaysBetweenTwoD\obj\Debug\net6.0\13.HolidaysBetweenTwoD.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.HolidaysBetweenTwoD\obj\Debug\net6.0\refint\13.HolidaysBetweenTwoD.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.HolidaysBetweenTwoD\obj\Debug\net6.0\13.HolidaysBetweenTwoD.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.HolidaysBetweenTwoD\obj\Debug\net6.0\13.HolidaysBetweenTwoD.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.1.CSharp-Fundamentals-Intro-and-Basic-Syntax-Lab\13.HolidaysBetweenTwoD\obj\Debug\net6.0\ref\13.HolidaysBetweenTwoD.dll

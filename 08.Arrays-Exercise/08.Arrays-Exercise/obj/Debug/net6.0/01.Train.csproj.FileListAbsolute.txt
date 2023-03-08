@@ -1,0 +1,15 @@
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\08.Arrays-Exercise\08.Arrays-Exercise\bin\Debug\net6.0\01.Train.exe
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\08.Arrays-Exercise\08.Arrays-Exercise\bin\Debug\net6.0\01.Train.deps.json
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\08.Arrays-Exercise\08.Arrays-Exercise\bin\Debug\net6.0\01.Train.runtimeconfig.json
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\08.Arrays-Exercise\08.Arrays-Exercise\bin\Debug\net6.0\01.Train.dll
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\08.Arrays-Exercise\08.Arrays-Exercise\bin\Debug\net6.0\01.Train.pdb
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\08.Arrays-Exercise\08.Arrays-Exercise\obj\Debug\net6.0\01.Train.csproj.AssemblyReference.cache
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\08.Arrays-Exercise\08.Arrays-Exercise\obj\Debug\net6.0\01.Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\08.Arrays-Exercise\08.Arrays-Exercise\obj\Debug\net6.0\01.Train.AssemblyInfoInputs.cache
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\08.Arrays-Exercise\08.Arrays-Exercise\obj\Debug\net6.0\01.Train.AssemblyInfo.cs
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\08.Arrays-Exercise\08.Arrays-Exercise\obj\Debug\net6.0\01.Train.csproj.CoreCompileInputs.cache
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\08.Arrays-Exercise\08.Arrays-Exercise\obj\Debug\net6.0\01.Train.dll
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\08.Arrays-Exercise\08.Arrays-Exercise\obj\Debug\net6.0\refint\01.Train.dll
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\08.Arrays-Exercise\08.Arrays-Exercise\obj\Debug\net6.0\01.Train.pdb
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\08.Arrays-Exercise\08.Arrays-Exercise\obj\Debug\net6.0\01.Train.genruntimeconfig.cache
+C:\Users\gogat\OneDrive\Pictures\repos\01.23\08.Arrays-Exercise\08.Arrays-Exercise\obj\Debug\net6.0\ref\01.Train.dll
