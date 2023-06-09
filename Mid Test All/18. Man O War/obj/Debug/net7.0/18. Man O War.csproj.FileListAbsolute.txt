@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\18. Man O War\bin\Debug\net7.0\18. Man O War.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\18. Man O War\bin\Debug\net7.0\18. Man O War.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\18. Man O War\bin\Debug\net7.0\18. Man O War.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\18. Man O War\bin\Debug\net7.0\18. Man O War.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\18. Man O War\bin\Debug\net7.0\18. Man O War.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\18. Man O War\obj\Debug\net7.0\18. Man O War.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\18. Man O War\obj\Debug\net7.0\18. Man O War.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\18. Man O War\obj\Debug\net7.0\18. Man O War.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\18. Man O War\obj\Debug\net7.0\18. Man O War.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\18. Man O War\obj\Debug\net7.0\18. Man O War.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\18. Man O War\obj\Debug\net7.0\18. Man O War.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\18. Man O War\obj\Debug\net7.0\refint\18. Man O War.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\18. Man O War\obj\Debug\net7.0\18. Man O War.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\18. Man O War\obj\Debug\net7.0\18. Man O War.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\18. Man O War\obj\Debug\net7.0\ref\18. Man O War.dll

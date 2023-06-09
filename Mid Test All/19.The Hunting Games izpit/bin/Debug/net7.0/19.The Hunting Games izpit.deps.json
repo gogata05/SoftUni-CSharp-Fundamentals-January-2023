@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "19.The Hunting Games izpit/1.0.0": {
+        "runtime": {
+          "19.The Hunting Games izpit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "19.The Hunting Games izpit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

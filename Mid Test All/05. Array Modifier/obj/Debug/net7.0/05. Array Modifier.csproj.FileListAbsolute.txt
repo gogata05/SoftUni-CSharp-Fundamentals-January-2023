@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\05. Array Modifier\bin\Debug\net7.0\05. Array Modifier.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\05. Array Modifier\bin\Debug\net7.0\05. Array Modifier.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\05. Array Modifier\bin\Debug\net7.0\05. Array Modifier.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\05. Array Modifier\bin\Debug\net7.0\05. Array Modifier.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\05. Array Modifier\bin\Debug\net7.0\05. Array Modifier.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\05. Array Modifier\obj\Debug\net7.0\05. Array Modifier.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\05. Array Modifier\obj\Debug\net7.0\05. Array Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\05. Array Modifier\obj\Debug\net7.0\05. Array Modifier.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\05. Array Modifier\obj\Debug\net7.0\05. Array Modifier.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\05. Array Modifier\obj\Debug\net7.0\05. Array Modifier.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\05. Array Modifier\obj\Debug\net7.0\05. Array Modifier.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\05. Array Modifier\obj\Debug\net7.0\refint\05. Array Modifier.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\05. Array Modifier\obj\Debug\net7.0\05. Array Modifier.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\05. Array Modifier\obj\Debug\net7.0\05. Array Modifier.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\05. Array Modifier\obj\Debug\net7.0\ref\05. Array Modifier.dll

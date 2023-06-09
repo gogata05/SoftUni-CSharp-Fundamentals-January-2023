@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Hogwarts\bin\Debug\net6.0\Exam April Hogwarts.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Hogwarts\bin\Debug\net6.0\Exam April Hogwarts.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Hogwarts\bin\Debug\net6.0\Exam April Hogwarts.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Hogwarts\bin\Debug\net6.0\Exam April Hogwarts.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Hogwarts\bin\Debug\net6.0\Exam April Hogwarts.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Hogwarts\obj\Debug\net6.0\Exam April Hogwarts.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Hogwarts\obj\Debug\net6.0\Exam April Hogwarts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Hogwarts\obj\Debug\net6.0\Exam April Hogwarts.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Hogwarts\obj\Debug\net6.0\Exam April Hogwarts.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Hogwarts\obj\Debug\net6.0\Exam April Hogwarts.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Hogwarts\obj\Debug\net6.0\Exam April Hogwarts.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Hogwarts\obj\Debug\net6.0\refint\Exam April Hogwarts.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Hogwarts\obj\Debug\net6.0\Exam April Hogwarts.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Hogwarts\obj\Debug\net6.0\Exam April Hogwarts.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Hogwarts\obj\Debug\net6.0\ref\Exam April Hogwarts.dll

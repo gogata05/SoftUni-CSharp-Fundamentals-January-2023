@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\09. Need for Speed III\bin\Debug\net7.0\09. Need for Speed III.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\09. Need for Speed III\bin\Debug\net7.0\09. Need for Speed III.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\09. Need for Speed III\bin\Debug\net7.0\09. Need for Speed III.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\09. Need for Speed III\bin\Debug\net7.0\09. Need for Speed III.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\09. Need for Speed III\bin\Debug\net7.0\09. Need for Speed III.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\09. Need for Speed III\obj\Debug\net7.0\09. Need for Speed III.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\09. Need for Speed III\obj\Debug\net7.0\09. Need for Speed III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\09. Need for Speed III\obj\Debug\net7.0\09. Need for Speed III.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\09. Need for Speed III\obj\Debug\net7.0\09. Need for Speed III.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\09. Need for Speed III\obj\Debug\net7.0\09. Need for Speed III.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\09. Need for Speed III\obj\Debug\net7.0\09. Need for Speed III.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\09. Need for Speed III\obj\Debug\net7.0\refint\09. Need for Speed III.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\09. Need for Speed III\obj\Debug\net7.0\09. Need for Speed III.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\09. Need for Speed III\obj\Debug\net7.0\09. Need for Speed III.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\09. Need for Speed III\obj\Debug\net7.0\ref\09. Need for Speed III.dll

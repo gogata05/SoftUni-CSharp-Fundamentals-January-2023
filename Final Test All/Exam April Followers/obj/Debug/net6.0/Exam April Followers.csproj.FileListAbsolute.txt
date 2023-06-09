@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Followers\bin\Debug\net6.0\Exam April Followers.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Followers\bin\Debug\net6.0\Exam April Followers.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Followers\bin\Debug\net6.0\Exam April Followers.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Followers\bin\Debug\net6.0\Exam April Followers.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Followers\bin\Debug\net6.0\Exam April Followers.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Followers\obj\Debug\net6.0\Exam April Followers.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Followers\obj\Debug\net6.0\Exam April Followers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Followers\obj\Debug\net6.0\Exam April Followers.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Followers\obj\Debug\net6.0\Exam April Followers.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Followers\obj\Debug\net6.0\Exam April Followers.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Followers\obj\Debug\net6.0\Exam April Followers.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Followers\obj\Debug\net6.0\refint\Exam April Followers.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Followers\obj\Debug\net6.0\Exam April Followers.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Followers\obj\Debug\net6.0\Exam April Followers.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Followers\obj\Debug\net6.0\ref\Exam April Followers.dll

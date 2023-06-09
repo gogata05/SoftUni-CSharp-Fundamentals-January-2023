@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\01.The Imitation Game\bin\Debug\net7.0\01.The Imitation Game.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\01.The Imitation Game\bin\Debug\net7.0\01.The Imitation Game.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\01.The Imitation Game\bin\Debug\net7.0\01.The Imitation Game.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\01.The Imitation Game\bin\Debug\net7.0\01.The Imitation Game.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\01.The Imitation Game\bin\Debug\net7.0\01.The Imitation Game.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\01.The Imitation Game\obj\Debug\net7.0\01.The Imitation Game.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\01.The Imitation Game\obj\Debug\net7.0\01.The Imitation Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\01.The Imitation Game\obj\Debug\net7.0\01.The Imitation Game.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\01.The Imitation Game\obj\Debug\net7.0\01.The Imitation Game.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\01.The Imitation Game\obj\Debug\net7.0\01.The Imitation Game.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\01.The Imitation Game\obj\Debug\net7.0\01.The Imitation Game.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\01.The Imitation Game\obj\Debug\net7.0\refint\01.The Imitation Game.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\01.The Imitation Game\obj\Debug\net7.0\01.The Imitation Game.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\01.The Imitation Game\obj\Debug\net7.0\01.The Imitation Game.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\01.The Imitation Game\obj\Debug\net7.0\ref\01.The Imitation Game.dll

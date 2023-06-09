@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\23.Book’s World\bin\Debug\net6.0\23.Book’s World.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\23.Book’s World\bin\Debug\net6.0\23.Book’s World.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\23.Book’s World\bin\Debug\net6.0\23.Book’s World.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\23.Book’s World\bin\Debug\net6.0\23.Book’s World.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\23.Book’s World\bin\Debug\net6.0\23.Book’s World.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\23.Book’s World\obj\Debug\net6.0\23.Book’s World.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\23.Book’s World\obj\Debug\net6.0\23.Book’s World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\23.Book’s World\obj\Debug\net6.0\23.Book’s World.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\23.Book’s World\obj\Debug\net6.0\23.Book’s World.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\23.Book’s World\obj\Debug\net6.0\23.Book’s World.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\23.Book’s World\obj\Debug\net6.0\23.Book’s World.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\23.Book’s World\obj\Debug\net6.0\refint\23.Book’s World.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\23.Book’s World\obj\Debug\net6.0\23.Book’s World.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\23.Book’s World\obj\Debug\net6.0\23.Book’s World.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\23.Book’s World\obj\Debug\net6.0\ref\23.Book’s World.dll

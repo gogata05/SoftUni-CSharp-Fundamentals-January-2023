@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\12. Heart Delivery\bin\Debug\net7.0\12. Heart Delivery.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\12. Heart Delivery\bin\Debug\net7.0\12. Heart Delivery.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\12. Heart Delivery\bin\Debug\net7.0\12. Heart Delivery.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\12. Heart Delivery\bin\Debug\net7.0\12. Heart Delivery.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\12. Heart Delivery\bin\Debug\net7.0\12. Heart Delivery.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\12. Heart Delivery\obj\Debug\net7.0\12. Heart Delivery.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\12. Heart Delivery\obj\Debug\net7.0\12. Heart Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\12. Heart Delivery\obj\Debug\net7.0\12. Heart Delivery.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\12. Heart Delivery\obj\Debug\net7.0\12. Heart Delivery.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\12. Heart Delivery\obj\Debug\net7.0\12. Heart Delivery.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\12. Heart Delivery\obj\Debug\net7.0\12. Heart Delivery.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\12. Heart Delivery\obj\Debug\net7.0\refint\12. Heart Delivery.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\12. Heart Delivery\obj\Debug\net7.0\12. Heart Delivery.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\12. Heart Delivery\obj\Debug\net7.0\12. Heart Delivery.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\12. Heart Delivery\obj\Debug\net7.0\ref\12. Heart Delivery.dll

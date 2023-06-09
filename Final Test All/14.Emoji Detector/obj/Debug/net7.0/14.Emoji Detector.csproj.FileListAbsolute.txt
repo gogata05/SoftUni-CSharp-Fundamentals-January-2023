@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\14.Emoji Detector\bin\Debug\net7.0\14.Emoji Detector.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\14.Emoji Detector\bin\Debug\net7.0\14.Emoji Detector.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\14.Emoji Detector\bin\Debug\net7.0\14.Emoji Detector.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\14.Emoji Detector\bin\Debug\net7.0\14.Emoji Detector.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\14.Emoji Detector\bin\Debug\net7.0\14.Emoji Detector.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\14.Emoji Detector\obj\Debug\net7.0\14.Emoji Detector.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\14.Emoji Detector\obj\Debug\net7.0\14.Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\14.Emoji Detector\obj\Debug\net7.0\14.Emoji Detector.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\14.Emoji Detector\obj\Debug\net7.0\14.Emoji Detector.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\14.Emoji Detector\obj\Debug\net7.0\14.Emoji Detector.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\14.Emoji Detector\obj\Debug\net7.0\14.Emoji Detector.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\14.Emoji Detector\obj\Debug\net7.0\refint\14.Emoji Detector.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\14.Emoji Detector\obj\Debug\net7.0\14.Emoji Detector.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\14.Emoji Detector\obj\Debug\net7.0\14.Emoji Detector.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\14.Emoji Detector\obj\Debug\net7.0\ref\14.Emoji Detector.dll

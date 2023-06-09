@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\04. SoftUni Reception\bin\Debug\net7.0\04. SoftUni Reception.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\04. SoftUni Reception\bin\Debug\net7.0\04. SoftUni Reception.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\04. SoftUni Reception\bin\Debug\net7.0\04. SoftUni Reception.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\04. SoftUni Reception\bin\Debug\net7.0\04. SoftUni Reception.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\04. SoftUni Reception\bin\Debug\net7.0\04. SoftUni Reception.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\04. SoftUni Reception\obj\Debug\net7.0\04. SoftUni Reception.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\04. SoftUni Reception\obj\Debug\net7.0\04. SoftUni Reception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\04. SoftUni Reception\obj\Debug\net7.0\04. SoftUni Reception.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\04. SoftUni Reception\obj\Debug\net7.0\04. SoftUni Reception.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\04. SoftUni Reception\obj\Debug\net7.0\04. SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\04. SoftUni Reception\obj\Debug\net7.0\04. SoftUni Reception.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\04. SoftUni Reception\obj\Debug\net7.0\refint\04. SoftUni Reception.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\04. SoftUni Reception\obj\Debug\net7.0\04. SoftUni Reception.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\04. SoftUni Reception\obj\Debug\net7.0\04. SoftUni Reception.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\04. SoftUni Reception\obj\Debug\net7.0\ref\04. SoftUni Reception.dll

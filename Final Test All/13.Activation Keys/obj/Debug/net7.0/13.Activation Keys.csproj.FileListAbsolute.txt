@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\13.Activation Keys\bin\Debug\net7.0\13.Activation Keys.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\13.Activation Keys\bin\Debug\net7.0\13.Activation Keys.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\13.Activation Keys\bin\Debug\net7.0\13.Activation Keys.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\13.Activation Keys\bin\Debug\net7.0\13.Activation Keys.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\13.Activation Keys\bin\Debug\net7.0\13.Activation Keys.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\13.Activation Keys\obj\Debug\net7.0\13.Activation Keys.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\13.Activation Keys\obj\Debug\net7.0\13.Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\13.Activation Keys\obj\Debug\net7.0\13.Activation Keys.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\13.Activation Keys\obj\Debug\net7.0\13.Activation Keys.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\13.Activation Keys\obj\Debug\net7.0\13.Activation Keys.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\13.Activation Keys\obj\Debug\net7.0\13.Activation Keys.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\13.Activation Keys\obj\Debug\net7.0\refint\13.Activation Keys.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\13.Activation Keys\obj\Debug\net7.0\13.Activation Keys.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\13.Activation Keys\obj\Debug\net7.0\13.Activation Keys.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\13.Activation Keys\obj\Debug\net7.0\ref\13.Activation Keys.dll

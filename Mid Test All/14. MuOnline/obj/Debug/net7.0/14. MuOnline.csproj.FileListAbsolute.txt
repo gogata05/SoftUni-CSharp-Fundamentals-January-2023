@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\14. MuOnline\bin\Debug\net7.0\14. MuOnline.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\14. MuOnline\bin\Debug\net7.0\14. MuOnline.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\14. MuOnline\bin\Debug\net7.0\14. MuOnline.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\14. MuOnline\bin\Debug\net7.0\14. MuOnline.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\14. MuOnline\bin\Debug\net7.0\14. MuOnline.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\14. MuOnline\obj\Debug\net7.0\14. MuOnline.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\14. MuOnline\obj\Debug\net7.0\14. MuOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\14. MuOnline\obj\Debug\net7.0\14. MuOnline.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\14. MuOnline\obj\Debug\net7.0\14. MuOnline.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\14. MuOnline\obj\Debug\net7.0\14. MuOnline.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\14. MuOnline\obj\Debug\net7.0\14. MuOnline.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\14. MuOnline\obj\Debug\net7.0\refint\14. MuOnline.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\14. MuOnline\obj\Debug\net7.0\14. MuOnline.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\14. MuOnline\obj\Debug\net7.0\14. MuOnline.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\14. MuOnline\obj\Debug\net7.0\ref\14. MuOnline.dll

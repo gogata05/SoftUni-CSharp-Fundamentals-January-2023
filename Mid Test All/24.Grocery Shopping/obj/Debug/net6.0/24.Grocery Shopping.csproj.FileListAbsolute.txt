@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\24.Grocery Shopping\bin\Debug\net6.0\24.Grocery Shopping.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\24.Grocery Shopping\bin\Debug\net6.0\24.Grocery Shopping.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\24.Grocery Shopping\bin\Debug\net6.0\24.Grocery Shopping.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\24.Grocery Shopping\bin\Debug\net6.0\24.Grocery Shopping.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\24.Grocery Shopping\bin\Debug\net6.0\24.Grocery Shopping.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\24.Grocery Shopping\obj\Debug\net6.0\24.Grocery Shopping.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\24.Grocery Shopping\obj\Debug\net6.0\24.Grocery Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\24.Grocery Shopping\obj\Debug\net6.0\24.Grocery Shopping.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\24.Grocery Shopping\obj\Debug\net6.0\24.Grocery Shopping.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\24.Grocery Shopping\obj\Debug\net6.0\24.Grocery Shopping.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\24.Grocery Shopping\obj\Debug\net6.0\24.Grocery Shopping.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\24.Grocery Shopping\obj\Debug\net6.0\refint\24.Grocery Shopping.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\24.Grocery Shopping\obj\Debug\net6.0\24.Grocery Shopping.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\24.Grocery Shopping\obj\Debug\net6.0\24.Grocery Shopping.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\24.Grocery Shopping\obj\Debug\net6.0\ref\24.Grocery Shopping.dll

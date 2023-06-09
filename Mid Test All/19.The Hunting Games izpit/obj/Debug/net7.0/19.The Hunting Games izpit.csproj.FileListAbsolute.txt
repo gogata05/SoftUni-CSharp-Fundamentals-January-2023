@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\19.The Hunting Games izpit\bin\Debug\net7.0\19.The Hunting Games izpit.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\19.The Hunting Games izpit\bin\Debug\net7.0\19.The Hunting Games izpit.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\19.The Hunting Games izpit\bin\Debug\net7.0\19.The Hunting Games izpit.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\19.The Hunting Games izpit\bin\Debug\net7.0\19.The Hunting Games izpit.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\19.The Hunting Games izpit\bin\Debug\net7.0\19.The Hunting Games izpit.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\19.The Hunting Games izpit\obj\Debug\net7.0\19.The Hunting Games izpit.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\19.The Hunting Games izpit\obj\Debug\net7.0\19.The Hunting Games izpit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\19.The Hunting Games izpit\obj\Debug\net7.0\19.The Hunting Games izpit.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\19.The Hunting Games izpit\obj\Debug\net7.0\19.The Hunting Games izpit.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\19.The Hunting Games izpit\obj\Debug\net7.0\19.The Hunting Games izpit.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\19.The Hunting Games izpit\obj\Debug\net7.0\19.The Hunting Games izpit.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\19.The Hunting Games izpit\obj\Debug\net7.0\refint\19.The Hunting Games izpit.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\19.The Hunting Games izpit\obj\Debug\net7.0\19.The Hunting Games izpit.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\19.The Hunting Games izpit\obj\Debug\net7.0\19.The Hunting Games izpit.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\19.The Hunting Games izpit\obj\Debug\net7.0\ref\19.The Hunting Games izpit.dll

@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Message Translator\bin\Debug\net6.0\Exam April Message Translator.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Message Translator\bin\Debug\net6.0\Exam April Message Translator.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Message Translator\bin\Debug\net6.0\Exam April Message Translator.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Message Translator\bin\Debug\net6.0\Exam April Message Translator.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Message Translator\bin\Debug\net6.0\Exam April Message Translator.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Message Translator\obj\Debug\net6.0\Exam April Message Translator.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Message Translator\obj\Debug\net6.0\Exam April Message Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Message Translator\obj\Debug\net6.0\Exam April Message Translator.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Message Translator\obj\Debug\net6.0\Exam April Message Translator.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Message Translator\obj\Debug\net6.0\Exam April Message Translator.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Message Translator\obj\Debug\net6.0\Exam April Message Translator.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Message Translator\obj\Debug\net6.0\refint\Exam April Message Translator.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Message Translator\obj\Debug\net6.0\Exam April Message Translator.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Message Translator\obj\Debug\net6.0\Exam April Message Translator.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Final Test\Final Test All\Exam April Message Translator\obj\Debug\net6.0\ref\Exam April Message Translator.dll

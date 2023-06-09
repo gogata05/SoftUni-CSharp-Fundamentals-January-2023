@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\03. Memory Game\bin\Debug\net7.0\03. Memory Game.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\03. Memory Game\bin\Debug\net7.0\03. Memory Game.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\03. Memory Game\bin\Debug\net7.0\03. Memory Game.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\03. Memory Game\bin\Debug\net7.0\03. Memory Game.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\03. Memory Game\bin\Debug\net7.0\03. Memory Game.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\03. Memory Game\obj\Debug\net7.0\03. Memory Game.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\03. Memory Game\obj\Debug\net7.0\03. Memory Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\03. Memory Game\obj\Debug\net7.0\03. Memory Game.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\03. Memory Game\obj\Debug\net7.0\03. Memory Game.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\03. Memory Game\obj\Debug\net7.0\03. Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\03. Memory Game\obj\Debug\net7.0\03. Memory Game.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\03. Memory Game\obj\Debug\net7.0\refint\03. Memory Game.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\03. Memory Game\obj\Debug\net7.0\03. Memory Game.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\03. Memory Game\obj\Debug\net7.0\03. Memory Game.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\01.23start\Mid Test\Mid Test All\03. Memory Game\obj\Debug\net7.0\ref\03. Memory Game.dll
