@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/dB3MvqV.png" alt="Certificate"/>
+<img src="https://i.imgur.com/dB3MvqV.png" alt="Certificate"/> 
 
 ### 📚 C# Fundamentals
 
